@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Utility;
+namespace OliveStudio;
 
 /// <summary>
 /// Provides access to time-related functionality.

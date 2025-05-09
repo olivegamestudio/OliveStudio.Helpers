@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Utility;
+namespace OliveStudio;
 
 public delegate Task AsyncEventHandler(object sender, EventArgs e);
 
